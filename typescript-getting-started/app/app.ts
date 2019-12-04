@@ -1,12 +1,21 @@
 function startGame() {
     //hello World
     let name:string = "Nisar";
-    const playerName: string = "Rubicon";
+    let playerName: string = "Rubicon";
 
     logPlayer(playerName);
 
 
-    let message  = document.getElementById("messages");
+    let message: HTMLElement | string ;
+
+    if (typeof message ==='string'){
+        return message
+    }else{
+        return message
+    }
+
+
+    message = document.getElementById("messages");
     message!.innerText = 'Hello World';
 }
 function logPlayer(name: string){

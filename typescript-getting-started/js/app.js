@@ -1,7 +1,7 @@
-"use strict";
 function startGame() {
+    //hello World
     var name = "Nisar";
-    var playerName = "Rubicon";
+    var playerName;
     logPlayer(playerName);
     var message = document.getElementById("messages");
     message.innerText = 'Hello World';
