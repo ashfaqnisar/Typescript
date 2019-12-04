@@ -3,7 +3,7 @@
   "compilerOptions": {
     "removeComments": true
   },
-  "include": [
+  "include": [//This is also known as the Glob
     "./**/*" //This looks in the current directory and also in all the subdirectories of the folder for ts files
     //But, if we just provide * then it will look for all of the typescript files
   ]
