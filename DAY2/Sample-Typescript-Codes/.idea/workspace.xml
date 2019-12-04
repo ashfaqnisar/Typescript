@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27b8896a-b04f-4cf9-a4ca-35c7e0eba655" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../typescript-getting-started/.idea/typescript-getting-started.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/.idea/typescript-getting-started.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/app/app.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/css/united.bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DAY1/typescript-getting-started/yarn.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575436074212</updated>
-      <workItem from="1575436079271" duration="2527000" />
+      <workItem from="1575436079271" duration="3657000" />
     </task>
     <servers />
   </component>
