@@ -1,3 +1,5 @@
+
+
 function startGame(): void {
     //hello World
     let name: string = "Nisar";
@@ -42,6 +44,20 @@ const logError = (err:string):void =>{
     console.error(err)
 };
 
-logError("Hello Error");
-logMessage("Hello World, this is an arrow function");
 document.getElementById('startGame')!.addEventListener('click', startGame);
+
+let theResult: Result = {
+    playerName:"Ashfaq",
+    factor: 7,
+    problemCount: 5,
+    score: 5,
+};
+
+let player:Person ={
+    age: 0,
+    formatName:  () => {
+        return "";
+    },
+    name: ""
+
+}
